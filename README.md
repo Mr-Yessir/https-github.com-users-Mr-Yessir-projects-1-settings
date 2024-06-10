@@ -8,3 +8,6 @@ The app Specializes on Weather Conditions on Mobile Device
 The app shows Accurate results regurding the Weather.
 It simply tells you the weather updates if your lazy to watch the news for the weather updates.
 The app also updates reguring the weather outside.
+It is easy to use the app
+You simply log in the app and use calculate for the results
+you press exit when you want to go out completely outside the app.
